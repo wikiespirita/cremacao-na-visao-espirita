@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* Cremação
+* [Cremação](cremacao.md)
    * Cremação
 
