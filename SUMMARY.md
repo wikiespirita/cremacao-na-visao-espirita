@@ -1,5 +1,5 @@
 # Summary
 
 * [Introdução](README.md)
-* [Cremação](cremacao.md)
+* [Cremação](Cremação)
 
