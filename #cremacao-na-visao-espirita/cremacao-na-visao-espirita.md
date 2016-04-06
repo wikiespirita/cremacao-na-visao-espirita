@@ -1,2 +1,0 @@
-# Cremação na Visão Espírita
-
