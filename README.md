@@ -1,6 +1,14 @@
-# Cremação na Visão Espírita {#crema-o-na-vis-o-esp-rita}
+# Cremação na Visão Espírita {#cremacao-na-visao-espirita}
 
-Estudo sobre Cremação
+
+  Vamos iniciar nosso estudo sobre cremação trazendo as referências bibliográficas encontradas na literatura espírita, restringindo às obras básicas e complementares (Chico Xavier).
+  
+
+
+## Referências bibliográficas {#referencias-bibliograficas}
+
+
+  As referências abaixo estão em ordem cronológica.
 
 **Ano: 1857**
 
