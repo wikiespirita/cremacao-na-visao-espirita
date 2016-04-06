@@ -1,4 +1,5 @@
-Referências bibliográficas
+
+## Referências bibliográficas {#referencias-bibliograficas}
 
 As referências abaixo estão em ordem cronológica.
 
